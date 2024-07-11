@@ -1,4 +1,4 @@
-db.createCollection("users");
+db.createCollection("user");
 db.createUser({
   user: "test",
   pwd: "test123",
